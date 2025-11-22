@@ -1,0 +1,39 @@
+# How can targeted efforts fill gaps in the biodiversity record? {#targeted-efforts .section-break data-menu-title="Targeted efforts" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}
+
+## {#beetle-news .std data-menu-title="Beetle News"}  
+
+![](images/beetle_news_wide.png){width=100% fig-align=center}
+
+[[Queensland's Christmas Beetle Plague (1935, December 25).<br> Sydney Mail (NSW : 1912 - 1938), p. 47](http://nla.gov.au/nla.news-article160499545)]{.small}
+
+
+## Christmas Beetle Count {#christmas-beetle .std data-menu-title="Christmas Beetle Count"}
+
+![](plots/christmas_beetle.png){width=100% fig-align=center}
+
+## Christmas beetles and friends {#beetles-and-friends .std data-menu-title="Christmas beetles and friends"}
+
+![](plots/golden_stag.png){.absolute top="0" fig-width="1600"} ![](plots/june_beetle.png){.absolute top="250" fig-width="1600"} ![](plots/arg_scarab.png){.absolute top="500" fig-width="1600"} 
+
+## {#eggs .std data-menu-title="Egg Cabinet"}  
+
+![](images/egg_cabinet.png){width=100% fig-align=center}  
+
+[{{< fa camera >}} [Michelle McFarlane, Museums Victoria](https://collections.museumsvictoria.com.au/specimens/2198160)]{.small}
+
+
+## Australian Biodiversity Data Mobilisation Program: <br> Click Beetles, Museums Victoria (2024) {#dmp-table .std-mini data-menu-title="DMP Table"}  
+
+![](plots/click_table.png){width=90% fig-align=center}  
+![](images/click_beetle_1.png){.absolute bottom="50px" right="0px" width="250px"}  
+
+[{{< fa camera >}} Lucy McMillan, Museums Victoria]{.small}  
+
+
+## Australian Biodiversity Data Mobilisation Program: <br> Click Beetles, Museums Victoria (2024) {#dmp-waffle .std-mini data-menu-title="DMP Waffle"}  
+
+![](plots/click_waffle.png){width=100% fig-align=center} 
+
+## Australian Biodiversity Data Mobilisation Program: <br> Click Beetles, Museums Victoria (2024) {#dmp-barplot .std-mini data-menu-title="DMP Barplot"}  
+
+![](plots/click_barplot.png){width=100% fig-align=center}  

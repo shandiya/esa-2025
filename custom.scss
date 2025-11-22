@@ -1,0 +1,126 @@
+/*-- scss:defaults --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600&display=swap');
+
+
+// fonts
+$font-family-monospace: 'Fira Code', monospace;
+$font-family: 'League Spartan', sans-serif;
+$font-family: 'Libre Baskerville', serif;
+$code-block-font-size: 0.5em;
+
+// colours
+$body-bg: #fdf9ec;
+$body-color: #444444;
+$link-color: #a47823;
+$code-block-bg: darken($body-bg, 4%);
+$code-block-border-color: $body-bg;
+
+/*-- scss:rules --*/
+
+.reveal .title {
+  font-family: 'Libre Baskerville', serif;
+  color: #333333;
+  font-weight: 200;
+  font-size: 1.5em;
+  text-align: center;
+  position: absolute;
+  left: 60px;
+  right: 60px;
+  top: 50px;
+}
+
+.reveal .names {
+  font-family: 'Libre Baskerville', serif;
+  color: #333333;
+  font-weight: 200;
+  text-align: center;
+  position: absolute;
+  left: 60px;
+  right: 60px;
+  bottom: 50px;
+}
+
+.reveal .acknowledgement {
+  font-family: 'League Spartan', sans-serif;
+  color: #a47823;
+  font-weight: 100;
+  font-style: italic;
+  text-align: justify;
+  position: absolute;
+  left: 60px;
+  right: 60px;
+  top: 80px;
+}
+
+.reveal .std h2 {
+  font-family: 'Libre Baskerville', serif;
+  color: #a47823;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.reveal .std-mini h2 {
+  font-family: 'Libre Baskerville', serif;
+  color: #a47823;
+  font-weight: 700;
+  font-size: 1.2em;
+}
+
+.reveal p, ul {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 200;
+  font-size: 1.2em;
+}
+
+.reveal .section-break h1 {
+  font-family: 'Libre Baskerville', serif;
+  color: #fdf9ec;
+  font-size: 2em;
+  text-align: center;
+}
+
+.reveal .link-text {
+  font-family: 'Fira Code', monospace;
+  font-weight: 200;
+  font-size: 0.6em;
+}
+
+.reveal .code {
+  font-family: 'Fira Code', monospace;
+  font-weight: 200;
+  font-size: 0.9em;
+}
+
+.reveal .small {
+  font-family: 'League Spartan', sans-serif;
+  font-weight: 100;
+  font-size: 0.35em;
+  text-align: right;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.reveal .final {
+  font-family: 'League Spartan', sans-serif;
+  color: #fdf9ec;
+}
+
+.v-center-container {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height: 90%;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+## Our knowledge of biodiversity is spatially uneven... {#spatial-gaps .std data-menu-title="Spatial gaps" background-image="plots/spatial_gaps.png" data-background-size="contain"}
+
+## ...and contains temporal gaps {#temporal-gaps .std data-menu-title="Temporal gaps"}
+
+![](plots/temporal_gaps.png){width=100% fig-align=center}
+
+# "Endless forms most beautiful and most wonderful" {#endless-forms .section-break data-menu-title="Endless Forms" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
+
+## Is the ALA mostly birds? {#taxonomic-gaps-1 .std data-menu-title="Taxonomic gaps 1" auto-animate=true}  
+
+![](plots/prop_ala.png){fig-align="center"}  
+
+## Is the ALA mostly birds? Yes. {#taxonomic-gaps-2 .std data-menu-title="Taxonomic gaps 2" auto-animate=true} 
+
+![](plots/prop_ala.png){.absolute left=0 bottom=100 width="795"}  
+
+![](plots/rec_per_spp.png){.absolute right=0 bottom=100 width="795"} 
+
+## How many insects are effectively invisible? {#insects .std data-menu-title="Insects"}  
+
+![](plots/insect_waffle.png){fig-align="center" width="100%"} 

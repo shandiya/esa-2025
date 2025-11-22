@@ -1,0 +1,44 @@
+---
+pagetitle: "esa-2025"
+format:
+  revealjs: 
+    theme: custom.scss
+    height: 900
+    width: 1600
+    highlight-style: a11y
+    menu: false
+editor: visual
+---
+
+## {#title data-menu-title="Title"}  
+![](plots/title.png){width=100% fig-align=center}   
+[Conserving the Unseen:<br>Data Gaps in the Atlas of Living Australia]{.title}  
+[Shandiya Balasubramaniam<br>Dax Kellie]{.names}  
+
+## {#acknowledgement data-menu-title="Acknowledgement"}
+
+[I acknowledge the Traditional Owners of the lands on which we meet, the Kaurna people, as well as the Traditional Owners of the lands on which I live and work, the Wurundjeri people of the Kulin Nation. I pay my respects to their Elders past and present. I recognise the spiritual and cultural significance of land, water, and all that is in the environment to Traditional Owners, and their continuing connection to Country.]{.acknowledgement}
+
+![](plots/ack.png){.absolute bottom="0px" width=100%}  
+
+## *Lamprima imberbis* Carter, 1926{#l-imberbis .std data-menu-title="Lamprima imberbis"}    
+
+![](images/limberbis.png){.absolute left=100 bottom=120 width="1400"}  
+
+[{{< fa camera >}} [Angela Bannon, South Australian Museum](https://biocache.ala.org.au/occurrences/4a22ea81-b284-4694-bba1-d0c083354f26)]{.small}
+
+# How do we address the conservation of poorly known species? {#cons-qn .section-break data-menu-title="Cons Question" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
+
+{{< include _1-gaps.qmd >}}
+
+{{< include _2-solutions.qmd >}}
+
+## {#final data-menu-title="Final" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
+::: {.column width="60%"}
+[<br><br> **Shandiya Balasubramaniam** <br> Decision Support Program Lead <br> Atlas of Living Australia <br> {{< fa envelope >}} shandiya.balasubramaniam\@csiro.au <br> {{< fa brands bluesky >}} shandiya.bsky.social <br> {{< fa brands github >}} shandiya <br><br> ![](images/logos_white.png)]{.final}
+:::
+
+:::{.column width="40%"}
+[<br><br> Slides: <br>]{.final}
+:::
+
