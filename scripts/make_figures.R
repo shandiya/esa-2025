@@ -507,21 +507,39 @@ ggsave(here("plots", "christmas_beetle.png"), width = 12, height = 4, units = "i
 
 # Argentinian Scarab Beetle
 plot_heatmap(df = filter(beetle_counts_complete, vernacular_name == "Argentinian Scarab Beetle"), 
-             legend_title = expression("Counts of Argentinian Scarab Beetles (" * italic("Cyclocephala signaticollis") * ")"))
+             legend_title = "Counts of beetles") +
+  annotate("text", 
+           x = 1926, 
+           y = 10, 
+           label = as.character(expression(paste("Argentinian Scarab Beetles (", italic("Cyclocephala signaticollis"), ")"))),
+           parse = TRUE, size = 4)
 
 ggsave(here("plots", "arg_scarab.png"), width = 12, height = 4, units = "in")
 
 # June Beetles
 plot_heatmap(df = filter(beetle_counts_complete, vernacular_name == "June Beetles"), 
-             legend_title = expression("Counts of June Beetles (subfamily Melolonthinae)"))
+             legend_title = "") +
+  theme(legend.position = "none") +
+  annotate("text", 
+           x = 1919, 
+           y = 10, 
+           label = "June Beetles (subfamily Melolonthinae)",
+           size = 4)
 
 ggsave(here("plots", "june_beetle.png"), width = 12, height = 4, units = "in")
 
 # Golden Stag Beetle
 plot_heatmap(df = filter(beetle_counts_complete, vernacular_name == "Golden Stag Beetle"), 
-             legend_title = expression("Counts of Golden Stag Beetles (" * italic("Lamprima aurata") * ")"))
+             legend_title = "") +
+  theme(legend.position = "none") +
+  annotate("text", 
+           x = 1918, 
+           y = 10, 
+           label = as.character(expression(paste("Golden Stag Beetles (", italic("Lamprima aurata"), ")"))),
+           parse = TRUE, size = 4) 
 
 ggsave(here("plots", "golden_stag.png"), width = 12, height = 4, units = "in")
+
 
 # Click beetles -----------
 # excel sheet is from Juliet 20251107

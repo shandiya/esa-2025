@@ -37,9 +37,8 @@ This is Lamprima imberbis, and it belongs to a group of beetles commonly referre
 # How do we address the conservation of poorly known species? {#cons-qn .section-break data-menu-title="Cons Question" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
 
 ::: {.notes}
-Having data that span broad spatial, temporal, and taxonomic scales allows us to make inferences about species distributions, population and community trends, and ecological niches. These data also underpin many biodiversity indicators that inform conservation assessments and environmental policy. Open data infrastructures like GBIF and the Atlas of Living Australia are invaluable sources of aggregated data for addressing these kinds of questions — but they’re not immune to gaps and biases. Because the patterns that we see in biodiversity datasets are a reflection of where, when, and what we’ve chosen to observe and record, rather than being an exact copy of the biological world. 
+Open data infrastructures like GBIF and the ALA are invaluable sources of aggregated data that can be used for developing biodiversity indicators to inform conservation assessments and environemental policy, but they're not immune to gaps and biases. Because the patterns that we see in biodiversity datasets are a reflection of where, when, and what we’ve chosen to observe and record, rather than being an exact copy of the biological world. 
 ::: 
-
 
 {{< include _1-gaps.qmd >}}
 

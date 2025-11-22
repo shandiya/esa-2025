@@ -128,7 +128,7 @@ plot_heatmap <- function(df, legend_title) {
           legend.position = "bottom",
           legend.key.width = unit(20, 'mm'),
           legend.key.height = unit(4, "mm"),
-          legend.title = element_text(face = "bold", size = 12),
+          legend.title = element_text(size = 12),
           plot.background = element_rect(fill = NA, colour = NA),
           panel.background = element_rect(fill = NA, colour = NA), 
           legend.background = element_rect(fill = NA, colour = NA))

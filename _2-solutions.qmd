@@ -5,29 +5,48 @@ Visualising these spatial, temporal, and taxonomic gaps, it’s clear that our p
 :::
 
 
-## {#beetle-news .std data-menu-title="Beetle News"}  
+## {#beetle-news-1 .std data-menu-title="Beetle News 1"}  
 
 ![](images/beetle_news_wide.png){width=100% fig-align=center}
 
 [[Queensland's Christmas Beetle Plague (1935, December 25).<br> Sydney Mail (NSW : 1912 - 1938), p. 47](http://nla.gov.au/nla.news-article160499545)]{.small}  
 
 ::: {.notes}
-One example of these targeted efforts is the Christmas Beetle Count. Christmas beetles tend to make themselves known in midsummer, often spectacularly, by swarming around lights. In the early 1900s they were said to be so numerous in Sydney that branches of eucalypts would be bent under the weight of beetles. But those annual swarms seem to have disappeared, suggesting that, anecdotally, there may have been a decline. But like many invertebrates, Christmas beetles haven’t been the focus of long-term monitoring, so there aren’t consistent records to tell us if these are natural population fluctuations or not. So Invertebrates Australia and the Australian Museum launched the Christmas Beetle Count, which encourages people across the country to record and upload sightings of these beetles...
+One example of these targeted efforts is the Christmas Beetle Count. Christmas beetles tend to make themselves known in midsummer, often spectacularly, by swarming around lights. In the early 1900s they were said to be so numerous in Sydney that branches of eucalypts would be bent under the weight of beetles. 
+:::
+
+## {#beetle-news-2 .std data-menu-title="Beetle News 2"}  
+
+![](images/beetle_news_wide_highlighted.png){width=100% fig-align=center}
+[[Queensland's Christmas Beetle Plague (1935, December 25).<br> Sydney Mail (NSW : 1912 - 1938), p. 47](http://nla.gov.au/nla.news-article160499545)]{.small}  
+
+::: {.notes}
+This newspaper article from 1935 describes the Qld canefields being overrun with beetles, and describes how "beetling" could be very lucrative - good worked could average 10 pounds night, and it took 200 beetles to make a pound. But those annual swarms have disappeared, suggesting that there may have been a decline. But like many invertebrates, Christmas beetles haven’t been the focus of long-term monitoring, so there aren’t consistent records to tell us if these are natural population fluctuations. 
 :::
 
 
 ## Christmas Beetle Count {#christmas-beetle .std data-menu-title="Christmas Beetle Count"}
 
-![](plots/christmas_beetle.png){width=100% fig-align=center}
+![](plots/christmas_beetle.png){width=100% fig-align=center}  
+![](images/xmas 2.png){.absolute bottom="0" right="0" width="300px"}  
+![](images/xmas 3.png){.absolute bottom="0" right="325" width="300px"}  
+![](images/xmas 1.png){.absolute bottom="0" right="650" width="300px"}    
+
 
 ::: {.notes}
-...and when we look at the data that’s flowed into the ALA, the impact of the project is pretty clear. There’s a sharp rise in records that aligns with the launch of the project in 2022
+So Invertebrates Australia and the Australian Museum launched the Christmas Beetle Count, which encourages people across the country to record and upload sightings of these beetles, and when we look at the data that’s flowed into the ALA, the impact of the project is pretty clear. There’s a sharp rise in records that aligns with the launch of the project in 2022
 :::
 
 
 ## Christmas beetles and friends {#beetles-and-friends .std data-menu-title="Christmas beetles and friends"}
 
-![](plots/golden_stag.png){.absolute top="0" fig-width="1600"} ![](plots/june_beetle.png){.absolute top="250" fig-width="1600"} ![](plots/arg_scarab.png){.absolute top="500" fig-width="1600"} 
+![](plots/golden_stag.png){.absolute top="0" right="0" width="1450px"}
+![](images/l-aurata.png){.absolute top="60" left="1000" width="150px"}    
+![](plots/june_beetle.png){.absolute top="220" right="0" width="1450px"}  
+![](images/june-beetle.png){.absolute top="350" left="0" width="150"}  
+
+![](plots/arg_scarab.png){.absolute top="500" right="0" width="1450px"}  
+![](images/scarab.png){.absolute bottom="20" left="250" width="150"}  
 
 ::: {.notes}
 But what’s also interesting is that there’s been a concurrent rise in records for three other species, which are commonly misidentified as Christmas beetles. So there’s been this spillover effect of inadvertently increasing records for a suite of other non-target beetle species. This is especially significant for the Argentinean scarab, which is an invasive species and was first recorded here around the 1950s. These numbers suggest that the species could be far more common than we might have thought based on records from even just 5 years ago. 
@@ -41,7 +60,13 @@ But what’s also interesting is that there’s been a concurrent rise in record
 [{{< fa camera >}} [Michelle McFarlane, Museums Victoria](https://collections.museumsvictoria.com.au/specimens/2198160)]{.small}
 
 ::: {.notes}
-The flip side of going out and collecting new records, is making currently available records more accessible. There’s a wealth of data in collections institutions like museums and herbaria, which are in undigitised forms. To address this, the ALA runs a program called the Australian Biodiversity Data Mobilisation Program, which supports projects that improve access to biodiversity data through the ALA. So it’s about making data that we already have, more accessible and discoverable. 
+The flip side of going out and collecting new records, is making currently available records more accessible. There’s a wealth of data in collections institutions like museums and herbaria, which are in undigitised forms.
+:::
+
+## {#dmp-banner .std data-menu-title="DMP Banner" background-image="images/dmp_banner.png" data-background-size=contain}  
+
+::: {.notes}
+To address this, the ALA runs a program called the Australian Biodiversity Data Mobilisation Program, which provides funding to projects that improve access to biodiversity data through the ALA. So it’s about making data that we already have, more accessible and discoverable. 
 :::
 
 
@@ -71,7 +96,7 @@ It’s estimated that there are about 800 species in this group, so we’re stil
 ![](plots/click_barplot.png){width=100% fig-align=center}  
 
 ::: {.notes}
-This dataset is particularly valuable because differentiation to species level is very difficult for this group, it often requires close examination of small body structures so records based on preserved specimens are likely to be more reliable or better able to be identified to a lower taxonomic rank. This becomes very clear if you look at the breakdown of records based on record type - a lot more of the preserved specimens are identified down to species level, whereas this proportion is lower for human observations. This is an ongoing program that we run every year, and the next round opens in early 2026 so keep an eye on our socials if this is of interest.
+This dataset is particularly valuable because differentiation to species level is very difficult for this group, it often requires close examination of small body structures so records based on preserved specimens are likely to be more reliable or better able to be identified to a lower taxonomic rank. This becomes very clear if you look at the breakdown of records based on record type - a lot more of the preserved specimens are identified down to species level, whereas this proportion is lower for human observations. 
 :::
 
 
