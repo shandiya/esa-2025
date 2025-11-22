@@ -104,14 +104,40 @@ $code-block-border-color: $body-bg;
   right: 0px;
 }
 
-.reveal .final {
-  font-family: 'League Spartan', sans-serif;
-  color: #fdf9ec;
-}
-
 .v-center-container {
   display: flex !important;
   justify-content: center;
   align-items: center;
   height: 90%;
 }
+
+.left-align {
+  font-family: 'League Spartan', sans-serif;
+  color: #fdf9ec;
+  text-align: left;
+}
+
+.right-align {
+  font-family: 'League Spartan', sans-serif;
+  color: #fdf9ec;
+  text-align: right;
+}
+
+.final a {
+  color: #fdf9ec !important; 
+  font-family: 'Fira Code', monospace;
+  font-weight: 200;
+  font-size: 0.75em;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-wrapper img {
+  width: 100%;        
+  max-width: 1500px;  
+}
+

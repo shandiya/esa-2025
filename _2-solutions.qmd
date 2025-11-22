@@ -7,7 +7,9 @@ Visualising these spatial, temporal, and taxonomic gaps, it’s clear that our p
 
 ## {#beetle-news-1 .std data-menu-title="Beetle News 1"}  
 
+::: {.image-wrapper}
 ![](images/beetle_news_wide.png){width=100% fig-align=center}
+::: 
 
 [[Queensland's Christmas Beetle Plague (1935, December 25).<br> Sydney Mail (NSW : 1912 - 1938), p. 47](http://nla.gov.au/nla.news-article160499545)]{.small}  
 
@@ -17,7 +19,10 @@ One example of these targeted efforts is the Christmas Beetle Count. Christmas b
 
 ## {#beetle-news-2 .std data-menu-title="Beetle News 2"}  
 
+::: {.image-wrapper}
 ![](images/beetle_news_wide_highlighted.png){width=100% fig-align=center}
+:::  
+
 [[Queensland's Christmas Beetle Plague (1935, December 25).<br> Sydney Mail (NSW : 1912 - 1938), p. 47](http://nla.gov.au/nla.news-article160499545)]{.small}  
 
 ::: {.notes}
@@ -43,7 +48,7 @@ So Invertebrates Australia and the Australian Museum launched the Christmas Beet
 ![](plots/golden_stag.png){.absolute top="0" right="0" width="1450px"}
 ![](images/l-aurata.png){.absolute top="60" left="1000" width="150px"}    
 ![](plots/june_beetle.png){.absolute top="220" right="0" width="1450px"}  
-![](images/june-beetle.png){.absolute top="350" left="0" width="150"}  
+![](images/june-beetle.png){.absolute top="325" left="0" width="150"}  
 
 ![](plots/arg_scarab.png){.absolute top="500" right="0" width="1450px"}  
 ![](images/scarab.png){.absolute bottom="20" left="250" width="150"}  
@@ -186,7 +191,7 @@ You can write a metadata statement in plain text, and galaxias will convert a ma
 An *archive* is a [.zip]{.code} file containing three things: 
 
 ![](images/dwc_4.png){width=100% fig-align=center}   
-
+  
 ::: footer
 [galaxias.ala.org.au](https://galaxias.ala.org.au){.footer}
 :::
@@ -194,5 +199,3 @@ An *archive* is a [.zip]{.code} file containing three things:
 ::: {.notes}
 Once those are done, galaxias automatically builds a schema file and zips everything up into a Darwin Core Archive. galaxias handles all the file conversions and file management through this process, so everything’s always in the right place. Our hope is that this will encourage more researchers to make their data accessible. If you’d like to know more about galaxias, please come and talk to us, Dax and I are at the ALA booth where we have a poster that goes into more detail. And if you’d like to test out galaxias with your own dataset, we’d love to chat about it so please stop by. 
 :::
-
-

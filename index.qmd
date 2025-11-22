@@ -44,11 +44,11 @@ Open data infrastructures like GBIF and the ALA are invaluable sources of aggreg
 
 {{< include _2-solutions.qmd >}}
 
-## {#final data-menu-title="Final" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
-::: {.column width="60%"}
-[<br><br> **Shandiya Balasubramaniam** <br> Decision Support Program Lead <br> Atlas of Living Australia <br> {{< fa envelope >}} shandiya.balasubramaniam\@csiro.au <br> {{< fa brands bluesky >}} shandiya.bsky.social <br> {{< fa brands github >}} shandiya <br><br> ![](images/logos_white.png)]{.final}
+## {#final data-menu-title="Final" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)" .final}  
+::: {.column width="60%" .left-align}
+<br><br> **Shandiya Balasubramaniam** <br> Decision Support Program Lead <br> Atlas of Living Australia <br> {{< fa envelope >}} shandiya.balasubramaniam\@csiro.au <br> {{< fa brands bluesky >}} shandiya.bsky.social <br> {{< fa brands github >}} shandiya <br><br> ![](images/logos_white.png)
 :::
 
-:::{.column width="40%"}
-[<br><br> Slides: <br>]{.final}
+:::{.column width="40%" .right-align}
+<br><br> Slides: <br> insert QR code here <br> [shandiya.quarto.pub/esa2025](https://shandiya.quarto.pub/esa2025/)   
 :::
