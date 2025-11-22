@@ -15,11 +15,13 @@ editor: visual
 [Conserving the Unseen:<br>Data Gaps in the Atlas of Living Australia]{.title}  
 [Shandiya Balasubramaniam<br>Dax Kellie]{.names}  
 
+
 ## {#acknowledgement data-menu-title="Acknowledgement"}
 
 [I acknowledge the Traditional Owners of the lands on which we meet, the Kaurna people, as well as the Traditional Owners of the lands on which I live and work, the Wurundjeri people of the Kulin Nation. I pay my respects to their Elders past and present. I recognise the spiritual and cultural significance of land, water, and all that is in the environment to Traditional Owners, and their continuing connection to Country.]{.acknowledgement}
 
 ![](plots/ack.png){.absolute bottom="0px" width=100%}  
+
 
 ## *Lamprima imberbis* Carter, 1926{#l-imberbis .std data-menu-title="Lamprima imberbis"}    
 
@@ -27,7 +29,17 @@ editor: visual
 
 [{{< fa camera >}} [Angela Bannon, South Australian Museum](https://biocache.ala.org.au/occurrences/4a22ea81-b284-4694-bba1-d0c083354f26)]{.small}
 
+::: {.notes}
+This is Lamprima imberbis, and it belongs to a group of beetles commonly referred to as golden stag beetles, but this species doesn’t have a common name. It’s known from a single specimen that was collected almost 100 years ago. This specimen is a male and was collected from New South Wales, the female is unknown. No information was included about its abundance or ecology, and despite more recent attempts to search for this species, it’s never been recorded again. It is not listed as threatened, and has not had any conservation assessment. It could be extant but endangered, or it may be extinct. It is one species out of many examples I could give that illustrates a widespread and largely unresolved conservation management challenge: how do we address the conservation of poorly known species? 
+::: 
+
+
 # How do we address the conservation of poorly known species? {#cons-qn .section-break data-menu-title="Cons Question" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
+
+::: {.notes}
+Having data that span broad spatial, temporal, and taxonomic scales allows us to make inferences about species distributions, population and community trends, and ecological niches. These data also underpin many biodiversity indicators that inform conservation assessments and environmental policy. Open data infrastructures like GBIF and the Atlas of Living Australia are invaluable sources of aggregated data for addressing these kinds of questions — but they’re not immune to gaps and biases. Because the patterns that we see in biodiversity datasets are a reflection of where, when, and what we’ve chosen to observe and record, rather than being an exact copy of the biological world. 
+::: 
+
 
 {{< include _1-gaps.qmd >}}
 
@@ -41,4 +53,3 @@ editor: visual
 :::{.column width="40%"}
 [<br><br> Slides: <br>]{.final}
 :::
-

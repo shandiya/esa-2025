@@ -1,14 +1,34 @@
-## Our knowledge of biodiversity is spatially uneven... {#spatial-gaps .std data-menu-title="Spatial gaps" background-image="plots/spatial_gaps.png" data-background-size="contain"}
+## Our knowledge of biodiversity is spatially uneven... {#spatial-gaps .std data-menu-title="Spatial gaps" background-image="plots/spatial_gaps.png" data-background-size="contain"}  
+
+::: {.notes}
+Our knowledge of biodiversity is spatially uneven. This map shows relative species richness across the country based on data from the ALA, and you can see some clear patterns: there are fewer records as you move inland away from the coast, and the darkest grid cells correspond to capital cities. This is not unique to Australia - globally, the density of biodiversity records tends to be higher as you get closer to roads and population centres, compared to more remote areas. Sampling in remote areas is typically more expensive, and low population density means relatively fewer records get submitted by the public. Although this is a global trend, it’s particularly pronounced in Australia because the continent is so large and sparsely populated, and population centres are unevenly dispersed. 
+:::
+
 
 ## ...and contains temporal gaps {#temporal-gaps .std data-menu-title="Temporal gaps"}
 
 ![](plots/temporal_gaps.png){width=100% fig-align=center}
 
+::: {.notes}
+Similarly, observations are unevenly distributed across time. These are counts of species represented by preserved specimens across the decades. And that spatial bias comes through again, but you can also see that there are frid cells where what's been recorded fluctuates over time. This temporal variability in monitoring can have quite profound impacts on our understanding of species distributions. A large number of Australian birds are nomadic and have inconstant distributions year to year, with irregular movements that might be missed without consistent monitoring. Another thing to consider is that the distributions of many species changed following European colonisation, and many species are continuing to undergo rapid declines. And what this means is that distributions based on records from even just 1 - 2 decades ago may be unreliable evidence of their continuing occurrence.
+:::
+
+
 # "Endless forms most beautiful and most wonderful" {#endless-forms .section-break data-menu-title="Endless Forms" background-gradient="linear-gradient(to bottom right, #8F2E71, #CC5F9B)"}  
+
+::: {.notes}
+Darwin described the biological world as endless forms most beautiful and most wonderful constantly evolving, but it won’t be a surprise to anyone in this room that there are taxonomic gaps in biodiversity datasets.
+:::
+
 
 ## Is the ALA mostly birds? {#taxonomic-gaps-1 .std data-menu-title="Taxonomic gaps 1" auto-animate=true}  
 
 ![](plots/prop_ala.png){fig-align="center"}  
+
+::: {.notes}
+In the ALA, which holds over 150 million occurrence records, those endless forms look like birds. Almost 60% of records are of birds. Magpies alone make up 1.5% of the Atlas. 
+:::
+
 
 ## Is the ALA mostly birds? Yes. {#taxonomic-gaps-2 .std data-menu-title="Taxonomic gaps 2" auto-animate=true} 
 
@@ -16,6 +36,15 @@
 
 ![](plots/rec_per_spp.png){.absolute right=0 bottom=100 width="795"} 
 
+::: {.notes}
+In terms of coverage, the average number of records per species is over 100,000 for birds. When we look at invertebrates, it’s fewer than 200 records per species. What we record tends to be correlated with perceived charisma - birds and mammals are recorded more than invertebrates, plants, and fungi. Even among vertebrates, marsupials are recorded more than rodents and bats. For groups with good coverage, like a lot of bird species, we can model distributions and track changes in abundance over time. But for a lot of other groups, like invertebrates, we have much sparser information.
+:::
+
+
 ## How many insects are effectively invisible? {#insects .std data-menu-title="Insects"}  
 
 ![](plots/insect_waffle.png){fig-align="center" width="100%"} 
+
+::: {.notes}
+If we take insects as an example, the amount of information we have varies enormously by order. The dark green squares show the percentage of species with more than 10 records, and the lighter green squares show the percentage with at least 1 record. For charismatic, easy-to-spot groups like dragonflies, we have at least some data for most species. But compare that with beetles: they’re the most species-rich insect group, with over 25,000 species in Australia, and we know almost nothing about over two thirds of them. Entire chunks of the insect world are basically invisible in national biodiversity analyses, and even more so in conservation decisions.
+:::
