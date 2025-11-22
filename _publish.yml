@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: b638bb65-c421-441c-9566-4de95f0a72f1
+      url: https://shandiya.quarto.pub/esa2025

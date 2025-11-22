@@ -50,5 +50,5 @@ Open data infrastructures like GBIF and the ALA are invaluable sources of aggreg
 :::
 
 :::{.column width="40%" .right-align}
-<br><br> Slides: <br> insert QR code here <br> [shandiya.quarto.pub/esa2025](https://shandiya.quarto.pub/esa2025/)   
+<br><br><br><br> Slides: <br> ![](images/qr-code.png){width=50%} <br> [shandiya.quarto.pub/esa2025](https://shandiya.quarto.pub/esa2025/)   
 :::
